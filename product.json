@@ -1,0 +1,48 @@
+{
+  "PostDate": "2020-06-01T17:01:56Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/001-08569.English.dist",
+  "Packages": [
+    {
+      "Digest": "ed9c70e0c37ed58b81194e2ad3b3da43c0e989d8",
+      "Size": 1229742668,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/SecUpd2020-004HighSierraDeveloperBeta.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/SecUpd2020-004HighSierraDeveloperBeta.pkg"
+    },
+    {
+      "Digest": "23d3b2b8b4fa433797cde10582b7f86f441f7b72",
+      "Size": 16628,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/SecureBoot.pkg"
+    },
+    {
+      "Digest": "854e2820a2e572ed263c6885e1c6d9bafee1c178",
+      "Size": 117743876,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "6180985c24efb8083a93c1199405b9200c60ebb3",
+      "Size": 33008,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/macOSBrain.pkg"
+    },
+    {
+      "Digest": "8767df61ecd330dd8c950f94ff02324b8f9ddf8b",
+      "Size": 202973308,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "b6bf0031592af879a195c5b1eac68cca6c44c7bc",
+      "Size": 59314423,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/EmbeddedOSFirmware.pkg"
+    },
+    {
+      "Digest": "456e06ebc810620fd8b1a49106e6cd0966b518b1",
+      "Size": 486073597,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/SecUpd2020-004HighSierraDeveloperBeta.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/17/56/001-08569-A_YTZOOHOAIE/ndkgupfv6d1bg0lyur5rfc28g3wz6qrdtm/SecUpd2020-004HighSierraDeveloperBeta.RecoveryHDUpdate.pkg"
+    }
+  ]
+}
