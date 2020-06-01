@@ -1,0 +1,48 @@
+{
+  "PostDate": "2020-06-01T17:08:44Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/001-12354.English.dist",
+  "Packages": [
+    {
+      "Digest": "0a1ab6872d217503d26468d4573abb91bc30e1b6",
+      "Size": 16632,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/SecureBoot.pkg"
+    },
+    {
+      "Digest": "0156ca13a4f0b01d7b6ea77064c5120fcad0b729",
+      "Size": 33014,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/macOSBrain.pkg"
+    },
+    {
+      "Digest": "db9a998d6604f5c35ef7ae1de77be26fb9b251d5",
+      "Size": 1231065678,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/SecUpd2020-003HighSierra.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/SecUpd2020-003HighSierra.pkg"
+    },
+    {
+      "Digest": "66067e4b38e6b54951e3a9457f579e81d28098ae",
+      "Size": 115585284,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "1888df7e0d1c8a86adb14e62cb29b6342b5afe03",
+      "Size": 59298045,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/EmbeddedOSFirmware.pkg"
+    },
+    {
+      "Digest": "9cd6f64449735662f55280418957786fd09f9a68",
+      "Size": 202973311,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "4a97cd5ac2dad325b54495ce0d3cbdb5210f5d4b",
+      "Size": 486180098,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/SecUpd2020-003HighSierra.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/54/11/001-12354-A_T4W3OKDEX7/xf785kp341cakvok70utt651o2hk1h8wx9/SecUpd2020-003HighSierra.RecoveryHDUpdate.pkg"
+    }
+  ]
+}
